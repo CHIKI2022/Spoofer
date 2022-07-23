@@ -1,0 +1,8 @@
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\bin\Debug\HighSpoofer.exe.config
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\bin\Debug\HighSpoofer.exe
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\bin\Debug\HighSpoofer.pdb
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\obj\Debug\HighSpoofer.csproj.AssemblyReference.cache
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\obj\Debug\HighSpoofer.csproj.SuggestedBindingRedirects.cache
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\obj\Debug\HighSpoofer.csproj.CoreCompileInputs.cache
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\obj\Debug\HighSpoofer.exe
+C:\Users\CHIKI\source\repos\HighSpoofer\HighSpoofer\obj\Debug\HighSpoofer.pdb
